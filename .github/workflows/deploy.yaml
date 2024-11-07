@@ -1,4 +1,4 @@
-name: Deploy MultiDocker App
+name: Deploy MultiDocker App v2
 on:
   push:
     branches:
